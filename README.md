@@ -1,7 +1,7 @@
 # AlexFloarea-AI-SVS
 The core dataset used in AI SVS Model Training for "Alex Floarea"
 
-This is the core dataset for the Alex Floarea AI SVS Dataset
+This is the core English dataset for the Alex Floarea AI SVS Dataset
 
 This dataset contains roughly 1 hour and 15 minutes of British English singing data in WAV format with phoneme level HTK style labelling.
 Phonemes are labelled according to ARPA English phonemes, with additions of dx, ax, N and M.
