@@ -3,11 +3,12 @@ The core dataset used in AI SVS Model Training for "Alex Floarea"
 
 This is the core English dataset for the Alex Floarea AI SVS Dataset
 
-This dataset contains roughly 1 hour and 15 minutes of British English singing data in WAV format with phoneme level HTK style labelling.  
-Phonemes are labelled according to ARPA English phonemes, with additions of dx, ax, N and M.  
+This dataset contains roughly 1 hour and 50 minutes of British English singing data in WAV format with phoneme level HTK style labelling.  
+Phonemes are labelled according to ARPA English phonemes, with additions of dx, ax, oh, N and M.  
 All audio in this dataset was recorded using a Blue Yeti, and most samples have been treated with a noise gate and limiter.  
 This dataset was not sung by a professional singer, so the singing quality is poor but covers a large range.  
 The labels aren't perfect, and there may be mistakes, but they worked well enough to train their DiffSinger model.
+Part of this dataset used base labels created using SOFA and TigerMeat's GUI and English SOFA model.
 
 -You **MAY** use this dataset and it's labels for MultiSpeaker training of AI SVS Models  
 -You **MAY** use this dataset and it's labels for research purposes  
